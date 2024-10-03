@@ -1,0 +1,497 @@
+{
+  "blackCards": [
+    {
+      "text": "Why did the production server crash?",
+      "pick": 1
+    },
+    {
+      "text": "The new intern introduced a bug by ______.",
+      "pick": 1
+    },
+    {
+      "text": "What’s the best way to fix a ‘works on my machine’ bug?",
+      "pick": 1
+    },
+    {
+      "text": "At the last sprint review, the product owner asked for ______.",
+      "pick": 1
+    },
+    {
+      "text": "I never thought I’d spend 8 hours debugging ______.",
+      "pick": 1
+    },
+    {
+      "text": "Our entire sprint was derailed by ______.",
+      "pick": 1
+    },
+    {
+      "text": "The PM said we need to ship ______ by Friday.",
+      "pick": 1
+    },
+    {
+      "text": "I can’t believe we’re still using ______ in production.",
+      "pick": 1
+    },
+    {
+      "text": "The latest hotfix caused ______ to break.",
+      "pick": 1
+    },
+    {
+      "text": "I accidentally pushed ______ to production.",
+      "pick": 1
+    },
+    {
+      "text": "What did I discover in the legacy codebase?",
+      "pick": 1
+    },
+    {
+      "text": "I spent the entire day debugging ______.",
+      "pick": 1
+    },
+    {
+      "text": "After hours of debugging, it turned out to be ______.",
+      "pick": 1
+    },
+    {
+      "text": "What’s the most common cause of a merge conflict?",
+      "pick": 1
+    },
+    {
+      "text": "How did we fix the outage at 2 AM?",
+      "pick": 1
+    },
+    {
+      "text": "Our biggest blocker in this sprint was ______.",
+      "pick": 1
+    },
+    {
+      "text": "The client keeps asking for ______.",
+      "pick": 1
+    },
+    {
+      "text": "What feature did we sneak into the latest release?",
+      "pick": 1
+    },
+    {
+      "text": "The product owner keeps talking about ______.",
+      "pick": 1
+    },
+    {
+      "text": "In this sprint, we’ll prioritize fixing ______.",
+      "pick": 1
+    },
+    {
+      "text": "Our CEO just announced we're pivoting to ______.",
+      "pick": 1
+    },
+    {
+      "text": "The new feature completely breaks ______.",
+      "pick": 1
+    },
+    {
+      "text": "What was the root cause of the 3-hour outage?",
+      "pick": 1
+    },
+    {
+      "text": "Why did we miss the deadline?",
+      "pick": 1
+    },
+    {
+      "text": "What’s holding up the release?",
+      "pick": 1
+    },
+    {
+      "text": "What’s the real reason we delayed the deployment?",
+      "pick": 1
+    },
+    {
+      "text": "We didn’t meet our KPI this quarter because of ______.",
+      "pick": 1
+    },
+    {
+      "text": "Our team would be more efficient if we didn’t have to deal with ______.",
+      "pick": 1
+    },
+    {
+      "text": "How did our code review process end up with ______?",
+      "pick": 1
+    },
+    {
+      "text": "Our latest sprint retrospective was all about ______.",
+      "pick": 1
+    },
+    {
+      "text": "What caused the catastrophic data loss in production?",
+      "pick": 1
+    },
+    {
+      "text": "What did we forget in our disaster recovery plan?",
+      "pick": 1
+    },
+    {
+      "text": "The real reason the code isn't compiling is ______.",
+      "pick": 1
+    },
+    {
+      "text": "Why did we get 500 errors during our latest release?",
+      "pick": 1
+    },
+    {
+      "text": "What’s the most frustrating part of being a developer?",
+      "pick": 1
+    },
+    {
+      "text": "How do we get around the bug without fixing it?",
+      "pick": 1
+    },
+    {
+      "text": "Why does the product owner think this is a good idea?",
+      "pick": 1
+    },
+    {
+      "text": "Why did we skip testing?",
+      "pick": 1
+    },
+    {
+      "text": "The build failed because of ______.",
+      "pick": 1
+    },
+    {
+      "text": "Our release notes include a warning about ______.",
+      "pick": 1
+    },
+    {
+      "text": "Why did the client reject the feature?",
+      "pick": 1
+    },
+    {
+      "text": "Our bug report was rejected due to ______.",
+      "pick": 1
+    },
+    {
+      "text": "What caused the latest memory leak?",
+      "pick": 1
+    },
+    {
+      "text": "What kept the dev team awake all night?",
+      "pick": 1
+    },
+    {
+      "text": "What’s causing the database to crash?",
+      "pick": 1
+    },
+    {
+      "text": "The root cause of the infinite loop is ______.",
+      "pick": 1
+    },
+    {
+      "text": "Our code review turned into a debate over ______.",
+      "pick": 1
+    },
+    {
+      "text": "What did the CTO request for the next release?",
+      "pick": 1
+    },
+    {
+      "text": "What was the unexplainable bug in production caused by?",
+      "pick": 1
+    },
+    {
+      "text": "What triggered the last-minute rollback?",
+      "pick": 1
+    },
+    {
+      "text": "The junior dev broke the build by ______.",
+      "pick": 1
+    },
+    {
+      "text": "What’s our team’s secret weapon in every release?",
+      "pick": 1
+    },
+    {
+      "text": "Our production environment was compromised due to ______.",
+      "pick": 1
+    },
+    {
+      "text": "Why did the client reject our deployment?",
+      "pick": 1
+    },
+    {
+      "text": "The documentation was incomplete because of ______.",
+      "pick": 1
+    },
+    {
+      "text": "The dev team refused to work on ______.",
+      "pick": 1
+    },
+    {
+      "text": "Why did we have to roll back the release?",
+      "pick": 1
+    },
+    {
+      "text": "What did the QA team find most frustrating?",
+      "pick": 1
+    },
+    {
+      "text": "The latest code review focused on ______.",
+      "pick": 1
+    },
+    {
+      "text": "The last-minute hotfix was needed due to ______.",
+      "pick": 1
+    },
+    {
+      "text": "We missed our sprint goal because of ______.",
+      "pick": 1
+    },
+    {
+      "text": "What’s the CTO’s least favorite part of the codebase?",
+      "pick": 1
+    },
+    {
+      "text": "Why did the API return a 500 error?",
+      "pick": 1
+    },
+    {
+      "text": "Why is the staging environment completely broken?",
+      "pick": 1
+    },
+    {
+      "text": "What should we blame the memory leak on?",
+      "pick": 1
+    },
+    {
+      "text": "What critical feature did we forget to implement?",
+      "pick": 1
+    },
+    {
+      "text": "Our team was delayed because we couldn't figure out ______.",
+      "pick": 1
+    },
+    {
+      "text": "The root cause of the catastrophic failure was ______.",
+      "pick": 1
+    },
+    {
+      "text": "What did we discover during the code audit?",
+      "pick": 1
+    },
+    {
+      "text": "The new feature failed due to ______.",
+      "pick": 1
+    },
+    {
+      "text": "What did we forget to include in the release notes?",
+      "pick": 1
+    },
+    {
+      "text": "The code works, but only if we ignore ______.",
+      "pick": 1
+    },
+    {
+      "text": "Why does the CEO keep asking for ______?",
+      "pick": 1
+    },
+    {
+      "text": "We found a critical security vulnerability in ______.",
+      "pick": 1
+    },
+    {
+      "text": "The latest product requirement was just ______.",
+      "pick": 1
+    },
+    {
+      "text": "Why did we blow past the deadline?",
+      "pick": 1
+    },
+    {
+      "text": "What feature was a complete waste of time to build?",
+      "pick": 1
+    },
+    {
+      "text": "Our client requested ______ in the final delivery.",
+      "pick": 1
+    },
+    {
+      "text": "The test environment is broken because of ______.",
+      "pick": 1
+    },
+    {
+      "text": "What mysterious bug showed up in the logs?",
+      "pick": 1
+    },
+    {
+      "text": "The last thing our codebase needs is ______.",
+      "pick": 1
+    },
+    {
+      "text": "Our dev ops team struggled to implement ______.",
+      "pick": 1
+    },
+    {
+      "text": "What did we spend most of our sprint planning arguing about?",
+      "pick": 1
+    },
+    {
+      "text": "Why did the code base get refactored at the last minute?",
+      "pick": 1
+    },
+    {
+      "text": "The last-minute production outage was due to ______.",
+      "pick": 1
+    },
+    {
+      "text": "Why did our continuous integration process fail?",
+      "pick": 1
+    },
+    {
+      "text": "The latest sprint was delayed because of ______.",
+      "pick": 1
+    }
+  ],
+  "whiteCards": [
+    "Coat hanger abortions.",
+    "Man meat.",
+    "Autocannibalism.",
+    "Stack overflow solutions.",
+    "Infinite loops of despair.",
+    "Debugging with coffee.",
+    "Code reviews that make you question your life choices.",
+    "Spaghetti code nightmares.",
+    "The sweet release of a successful deployment.",
+    "A well-deserved nap.",
+    "Tangled wires and lost hopes.",
+    "The eternal struggle of merge conflicts.",
+    "Git commands that sound like spells.",
+    "Wishing for a bug-free day.",
+    "The horror of legacy code.",
+    "Overly optimistic project timelines.",
+    "The joy of finally fixing a stubborn bug.",
+    "An endless cycle of updates.",
+    "Rage quitting your IDE.",
+    "The agony of misplaced semicolons.",
+    "Accidentally pushing to the wrong branch.",
+    "The thrill of discovering a new library.",
+    "The constant fear of a production outage.",
+    "The joy of seeing your code run for the first time.",
+    "Refactoring code and feeling like a hero.",
+    "The nightmare of a system crash.",
+    "Trying to remember your own passwords.",
+    "The thrill of coding after hours.",
+    "The joy of finding a perfect stack trace.",
+    "Late-night debugging fueled by snacks.",
+    "That moment when you realize you forgot to save.",
+    "The chaos of multiple open tabs.",
+    "The pressure of an angry client.",
+    "The joy of finally understanding recursion.",
+    "Code comments that read like poetry.",
+    "The excitement of a new gadget.",
+    "The tension of a code freeze.",
+    "The bliss of an uninterrupted coding session.",
+    "Seeing your code in production.",
+    "The dread of an unexpected refactor.",
+    "The thrill of learning a new framework.",
+    "The magic of clean code.",
+    "Running into 'it works on my machine' situations.",
+    "Feeling like a coding ninja.",
+    "The horror of working with outdated technology.",
+    "The satisfaction of writing elegant code.",
+    "Chasing bugs that seem to vanish.",
+    "The joy of finding that one missing bracket.",
+    "The mystery of disappearing files.",
+    "The panic of forgetting to commit changes.",
+    "The fun of coding with friends.",
+    "The rush of implementing a new feature.",
+    "The chaos of sprint planning.",
+    "Feeling like a wizard when your code works.",
+    "The satisfaction of automating a tedious task.",
+    "Struggling with imposter syndrome.",
+    "The joy of understanding someone else's code.",
+    "The thrill of a successful code review.",
+    "The panic of a deadline approaching.",
+    "The satisfaction of completing a challenging task.",
+    "The dread of last-minute changes.",
+    "Feeling like a rockstar after a successful demo.",
+    "The joy of sharing code snippets with colleagues.",
+    "The agony of waiting for a build to finish.",
+    "The thrill of using a new programming language.",
+    "The pressure of debugging in front of the team.",
+    "The joy of solving a complex problem.",
+    "The frustration of syntax errors.",
+    "The thrill of finding a shortcut.",
+    "The joy of pairing with a great developer.",
+    "The terror of a blue screen of death.",
+    "The beauty of well-structured code.",
+    "The exhilaration of fixing a critical bug.",
+    "The satisfaction of mentoring a junior developer.",
+    "The struggle of maintaining work-life balance.",
+    "The joy of discovering open-source projects.",
+    "The pain of dealing with flaky tests.",
+    "The euphoria of launching a new app.",
+    "The stress of managing project dependencies.",
+    "The thrill of a live demo.",
+    "The joy of refactoring a messy codebase.",
+    "The fun of participating in hackathons.",
+    "The pressure of staying updated with technology.",
+    "The satisfaction of optimizing performance.",
+    "The joy of coding in your pajamas.",
+    "The frustration of slow internet.",
+    "The joy of collaborating on GitHub.",
+    "The terror of breaking production.",
+    "The satisfaction of teaching a coding workshop.",
+    "The confusion of too many programming paradigms.",
+    "The joy of finding a new bug to squash.",
+    "The struggle of working with non-technical stakeholders.",
+    "The bliss of running unit tests without failures.",
+    "The challenge of implementing new features under pressure.",
+    "The joy of creating a personal project.",
+    "The agony of choosing the right framework.",
+    "The satisfaction of completing a certification.",
+    "The thrill of presenting at a tech conference.",
+    "The struggle of navigating office politics.",
+    "The joy of debugging with your favorite playlist.",
+    "The stress of working remotely.",
+    "The satisfaction of seeing user feedback.",
+    "The joy of pushing code at midnight.",
+    "The thrill of breaking new ground in development.",
+    "The challenge of balancing coding with meetings.",
+    "The joy of creating something from scratch.",
+    "The dread of forgetting a critical detail.",
+    "The joy of a smooth deployment.",
+    "The pressure of launching a new feature.",
+    "The thrill of user acceptance testing.",
+    "The satisfaction of writing clear documentation.",
+    "The joy of coding with a partner.",
+    "The stress of a failing project.",
+    "The excitement of solving a programming puzzle.",
+    "The fear of missing an important deadline.",
+    "The joy of clean and readable code.",
+    "The challenge of keeping up with trends.",
+    "The bliss of a well-organized codebase.",
+    "The satisfaction of mastering a complex topic.",
+    "The joy of building a prototype.",
+    "The pressure of delivering under tight timelines."
+  ],
+  "Base": {
+    "name": "Base Set",
+    "black": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+        21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+        39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+        57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74,
+        75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86
+    ],
+    "white": [
+      0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+      21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+      39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+      57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74,
+      75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92,
+      93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108,
+      109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120
+    ]
+  },
+  "order": [
+    "Base"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cardsagainstdevelopers",
+  "version": "0.0.0",
+  "description": "A Cards Against Humanity clone.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host --port 8080",
+    "build": "vite build",
+    "server": "set PORT=8081 && node server/index.js"
+  },
+  "author": "Howard Chung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "moniker": "^0.1.2",
+    "querystring": "^0.2.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "vite": "^4.5.0",
+    "ws": "^3.3.2"
+  }
+}
